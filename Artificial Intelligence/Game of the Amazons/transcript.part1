@@ -1,0 +1,14 @@
+Script started on Sun Oct 16 20:27:25 2016
+[?1034hbash-3.2$ python minimax_a_b.py test_tree1
+Utility value of root node: 4
+Nodes visited: 12
+bash-3.2$ python minimax_a_b.py test_tree1[K2
+Utility value of root node: 6
+Nodes visited: 11
+bash-3.2$ python minimax_a_b.py test_tree2[K3
+Utility value of root node: 8
+Nodes visited: 19
+bash-3.2$ exit
+exit
+
+Script done on Sun Oct 16 20:27:49 2016

@@ -1,0 +1,372 @@
+cities.config bfs
+
+Solution Path
+Node: Berkshire Arlington
+
+Nodes Created: 1
+
+Frontier list size: 1
+
+Explored list size: 1
+
+
+cities.config dfs
+
+Solution Path
+Node: Berkshire Arlington
+
+Nodes Created: 1
+
+Frontier list size: 2
+
+Explored list size: None
+
+
+cities.config iddfs
+
+Solution Path
+Node: Berkshire Arlington
+
+Nodes Created: 1
+
+Frontier list size: 2
+
+Explored list size: None
+
+
+cities.config uniformcost
+
+Solution Path
+Node: Berkshire Chelmsford
+Node: Chelmsford Arlington
+
+Nodes Created: 2
+
+Frontier list size: 2
+
+Explored list size: 2
+
+
+cities.config astar
+
+Solution Path
+Node: Berkshire Chelmsford
+Node: Chelmsford Arlington
+
+Nodes Created: 2
+
+Frontier list size: 2
+
+Explored list size: 2 
+
+
+cities.config greedy
+
+Solution Path
+Node: Berkshire Chelmsford
+Node: Chelmsford Arlington 
+
+Nodes Created: 2
+
+Frontier list size: 2
+
+Explored list size: 2
+
+
+
+
+test_cities.config bfs
+
+Solution Path
+Node: c00 c01
+Node: c01 c02
+Node: c02 c03
+Node: c03 c14
+Node: c14 c23
+Node: c23 c33
+Node: c33 c44
+
+Nodes Created: 8
+
+Frontier list size: 9
+
+Explored list size: 8
+
+
+test_cities.config dfs
+
+Memory Error
+
+
+test_cities.config iddfs
+
+Solution Path
+Node: c00 c11
+Node: c11 c22
+Node: c22 c33
+Node: c33 c44
+
+Nodes Created: 80
+
+Frontier list size: 5
+
+Explored list size: None
+
+
+test_cities.config uniformcost
+
+Solution Path
+Node: c00 c11
+Node: c11 c20
+Node: c20 c30
+Node: c30 c40
+Node: c40 c31
+Node: c31 c41
+Node: c41 c32
+Node: c32 c42
+Node: c42 c33
+Node: c33 c43
+Node: c43 c34
+Node: c34 c44
+
+Nodes Created: 75
+
+Frontier list size: 61
+
+Explored list size: 24
+
+
+test_cities.config 
+
+Solution Path
+Node: c00 c11
+Node: c11 c20
+Node: c20 c30
+Node: c30 c40
+Node: c40 c31
+Node: c31 c41
+Node: c41 c32
+Node: c32 c42
+Node: c42 c33
+Node: c33 c43
+Node: c43 c34
+Node: c34 c44
+
+Nodes Created: 74
+
+Frontier list size: 54
+
+Explored list size: 24
+
+
+test_cities.config greedy
+
+Solution Path
+Node: c00 c11
+Node: c11 c20
+Node: c20 c30
+Node: c30 c40
+Node: c40 c31
+Node: c31 c41
+Node: c41 c32
+Node: c32 c42
+Node: c42 c33
+Node: c33 c43
+Node: c43 c34
+Node: c34 c44
+
+Nodes Created: 73
+
+Frontier list size: 57
+
+Explored list size: 24
+
+
+
+test_jugs.config bfs
+
+Solution Path
+Node: (0, 0) fill 2
+Node: (0, 11) transfer 2 to 1
+Node: (4, 7) empty 1
+Node: (0, 7) transfer 2 to 1
+Node: (4, 3) empty 1
+Node: (0, 3) transfer 2 to 1
+Node: (3, 0) fill 2
+Node: (3, 11) transfer 2 to 1
+
+Nodes Created: 8
+
+Frontier list size: 3
+
+Explored list size:  8
+
+
+
+test_jugs.config dfs
+
+Memory Error  
+
+
+
+test_jugs.config iddfs
+
+Solution Path
+Node: (0, 0) fill 1
+Node: (4, 0) transfer 1 to 2
+Node: (0, 4) fill 1
+Node: (4, 4) transfer 1 to 2
+Node: (0, 8) fill 1
+Node: (4, 8) transfer 1 to 2
+
+Nodes Created: 106
+
+Frontier list size: 4
+
+Explored list size: 13
+
+
+
+test_jugs.config uniformcost
+
+Solution Path
+Node: (0, 0) fill 1
+Node: (4, 0) transfer 1 to 2
+Node: (0, 4) fill 1
+Node: (4, 4) transfer 1 to 2
+Node: (0, 8) fill 1
+Node: (4, 8) transfer 1 to 2
+
+Nodes Created: 13
+
+Frontier list size: 4
+
+Explored list size:  12
+
+
+
+test_jugs.config astar
+
+Solution Path
+Node: (0, 0) fill 1
+Node: (4, 0) transfer 1 to 2
+Node: (0, 4) fill 1
+Node: (4, 4) transfer 1 to 2
+Node: (0, 8) fill 1
+Node: (4, 8) transfer 1 to 2
+
+Nodes Created: 14
+
+Frontier list size: 4
+
+Explored list size:  13
+
+
+
+test_jugs.config greedy
+
+Solution Path
+Node: (0, 0) fill 1
+Node: (4, 0) transfer 1 to 2
+Node: (0, 4) fill 1
+Node: (4, 4) transfer 1 to 2
+Node: (0, 8) fill 1
+Node: (4, 8) transfer 1 to 2
+
+Nodes Created: 13
+
+Frontier list size: 4
+
+Explored list size: 12
+
+
+
+
+jugs.config bfs
+
+Solution Path
+Node: (0, 0) fill 2
+Node: (0, 4) transfer 2 to 1
+Node: (3, 1) empty 1
+Node: (0, 1) transfer 2 to 1
+Node: (1, 0) fill 2
+Node: (1, 4) transfer 2 to 1 
+
+Nodes Created: 6
+
+Frontier list size: 3
+
+Explored list size: 6
+
+
+jugs.config dfs
+
+Memory Error
+
+
+jugs.config iddfs
+
+Solution Path
+Node: (0, 0) fill 2
+Node: (0, 4) transfer 2 to 1
+Node: (3, 1) empty 1
+Node: (0, 1) transfer 2 to 1
+Node: (1, 0) fill 2
+Node: (1, 4) transfer 2 to 1
+
+Nodes Created: 5
+
+Frontier list size: 3
+
+Explored list size: 5
+
+
+
+jugs.config uniformcost
+
+Solution Path
+Node: (0, 0) fill 2
+Node: (0, 4) transfer 2 to 1
+Node: (3, 1) empty 1
+Node: (0, 1) transfer 2 to 1
+Node: (1, 0) fill 2
+Node: (1, 4) transfer 2 to 1
+
+Nodes Created: 6
+
+Frontier list size: 3
+
+Explored list size: 6
+
+
+
+jugs.config astar
+
+Solution Path
+Node: (0, 0) fill 2
+Node: (0, 4) transfer 2 to 1
+Node: (3, 1) empty 1
+Node: (0, 1) transfer 2 to 1
+Node: (1, 0) fill 2
+Node: (1, 4) transfer 2 to 1
+
+Nodes Created: 6
+
+Frontier list size: 3
+
+Explored list size: 6
+
+
+jugs.config greedy
+
+Solution Path
+Node: (0, 0) fill 1
+Node: (3, 0) transfer 1 to 2
+Node: (0, 3) fill 1
+Node: (3, 3) transfer 1 to 2
+
+Nodes Created: 10
+
+Frontier list size: 4
+
+Explored list size: 9

@@ -1,0 +1,1357 @@
+Script started on Tue Oct 18 21:02:48 2016
+[?1034hbash-3.2$ exitpython amazons32v3.py amazons.txt
+('kpb24_AutoPlayer', ': move:', ['d0', 'h4', 'c9'], 'time:', 1.033313, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x q . . q . . .', 9)
+(8, '. . . . . . . . . .', 8)
+(7, '. . . . . . . . . .', 7)
+(6, 'q . . . . . . . . q', 6)
+(5, '. . . . . . . . . .', 5)
+(4, '. . . . . . . Q . .', 4)
+(3, 'Q . . . . . . . . Q', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . . . . . . . .', 1)
+(0, '. . . . . . Q . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "a6-b7"
+     Black
+  a b c d e f g h i j
+(9, '. . x q . . q . . .', 9)
+(8, '. . . . . . . . . .', 8)
+(7, '. q . . . . . . . .', 7)
+(6, '. . . . . . . . . q', 6)
+(5, '. . . . . . . . . .', 5)
+(4, '. . . . . . . Q . .', 4)
+(3, 'Q . . . . . . . . Q', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . . . . . . . .', 1)
+(0, '. . . . . . Q . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "b4"
+('human', ': move:', ['a6', 'b7', 'b4'], 'time:', 0.001759000000000066, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['h4', 'h9', 'h8'], 'time:', 1.062683, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x q . . q Q . .', 9)
+(8, '. . . . . . . x . .', 8)
+(7, '. q . . . . . . . .', 7)
+(6, '. . . . . . . . . q', 6)
+(5, '. . . . . . . . . .', 5)
+(4, '. x . . . . . . . .', 4)
+(3, 'Q . . . . . . . . Q', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . . . . . . . .', 1)
+(0, '. . . . . . Q . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "d9-d6"
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q Q . .', 9)
+(8, '. . . . . . . x . .', 8)
+(7, '. q . . . . . . . .', 7)
+(6, '. . . q . . . . . q', 6)
+(5, '. . . . . . . . . .', 5)
+(4, '. x . . . . . . . .', 4)
+(3, 'Q . . . . . . . . Q', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . . . . . . . .', 1)
+(0, '. . . . . . Q . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "d1"
+('human', ': move:', ['d9', 'd6', 'd1'], 'time:', 0.0012079999999996538, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['a3', 'a4', 'a7'], 'time:', 0.934736, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q Q . .', 9)
+(8, '. . . . . . . x . .', 8)
+(7, 'x q . . . . . . . .', 7)
+(6, '. . . q . . . . . q', 6)
+(5, '. . . . . . . . . .', 5)
+(4, 'Q x . . . . . . . .', 4)
+(3, '. . . . . . . . . Q', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . x . . . . . .', 1)
+(0, '. . . . . . Q . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "d6-f4"
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q Q . .', 9)
+(8, '. . . . . . . x . .', 8)
+(7, 'x q . . . . . . . .', 7)
+(6, '. . . . . . . . . q', 6)
+(5, '. . . . . . . . . .', 5)
+(4, 'Q x . . . q . . . .', 4)
+(3, '. . . . . . . . . Q', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . x . . . . . .', 1)
+(0, '. . . . . . Q . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "f1"
+('human', ': move:', ['d6', 'f4', 'f1'], 'time:', 0.0013010000000002186, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['j3', 'f7', 'f5'], 'time:', 0.8654089999999997, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q Q . .', 9)
+(8, '. . . . . . . x . .', 8)
+(7, 'x q . . . Q . . . .', 7)
+(6, '. . . . . . . . . q', 6)
+(5, '. . . . . x . . . .', 5)
+(4, 'Q x . . . q . . . .', 4)
+(3, '. . . . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . x . x . . . .', 1)
+(0, '. . . . . . Q . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "f4-h6"
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q Q . .', 9)
+(8, '. . . . . . . x . .', 8)
+(7, 'x q . . . Q . . . .', 7)
+(6, '. . . . . . . q . q', 6)
+(5, '. . . . . x . . . .', 5)
+(4, 'Q x . . . . . . . .', 4)
+(3, '. . . . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . x . x . . . .', 1)
+(0, '. . . . . . Q . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "h1"
+('human', ': move:', ['f4', 'h6', 'h1'], 'time:', 0.0011890000000001066, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['g0', 'g8', 'b8'], 'time:', 0.7472880000000002, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q Q . .', 9)
+(8, '. x . . . . Q x . .', 8)
+(7, 'x q . . . Q . . . .', 7)
+(6, '. . . . . . . q . q', 6)
+(5, '. . . . . x . . . .', 5)
+(4, 'Q x . . . . . . . .', 4)
+(3, '. . . . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "b7-c5 6"
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q Q . .', 9)
+(8, '. x . . . . Q x . .', 8)
+(7, 'x . . . . Q . . . .', 7)
+(6, '. . q . . . . q . q', 6)
+(5, '. . . . . x . . . .', 5)
+(4, 'Q x . . . . . . . .', 4)
+(3, '. . . . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "c4"
+('human', ': move:', ['b7', 'c6', 'c4'], 'time:', 0.0010719999999997398, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['g8', 'c8', 'a6'], 'time:', 0.7377229999999999, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q Q . .', 9)
+(8, '. x Q . . . . x . .', 8)
+(7, 'x . . . . Q . . . .', 7)
+(6, 'x . q . . . . q . q', 6)
+(5, '. . . . . x . . . .', 5)
+(4, 'Q x x . . . . . . .', 4)
+(3, '. . . . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "c6-e4"
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q Q . .', 9)
+(8, '. x Q . . . . x . .', 8)
+(7, 'x . . . . Q . . . .', 7)
+(6, 'x . . . . . . q . q', 6)
+(5, '. . . . . x . . . .', 5)
+(4, 'Q x x . q . . . . .', 4)
+(3, '. . . . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "e8"
+('human', ': move:', ['c6', 'e4', 'e8'], 'time:', 0.0009950000000005232, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['f7', 'd5', 'e5'], 'time:', 0.6752149999999997, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q Q . .', 9)
+(8, '. x Q . x . . x . .', 8)
+(7, 'x . . . . . . . . .', 7)
+(6, 'x . . . . . . q . q', 6)
+(5, '. . . Q x x . . . .', 5)
+(4, 'Q x x . q . . . . .', 4)
+(3, '. . . . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "e4-j4"
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q Q . .', 9)
+(8, '. x Q . x . . x . .', 8)
+(7, 'x . . . . . . . . .', 7)
+(6, 'x . . . . . . q . q', 6)
+(5, '. . . Q x x . . . .', 5)
+(4, 'Q x x . . . . . . q', 4)
+(3, '. . . . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "d4"
+('human', ': move:', ['e4', 'j4', 'd4'], 'time:', 0.0011460000000003134, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['c8', 'd8', 'c8'], 'time:', 0.5765760000000002, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q Q . .', 9)
+(8, '. x x Q x . . x . .', 8)
+(7, 'x . . . . . . . . .', 7)
+(6, 'x . . . . . . q . q', 6)
+(5, '. . . Q x x . . . .', 5)
+(4, 'Q x x x . . . . . q', 4)
+(3, '. . . . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "h6-g7"
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q Q . .', 9)
+(8, '. x x Q x . . x . .', 8)
+(7, 'x . . . . . q . . .', 7)
+(6, 'x . . . . . . . . q', 6)
+(5, '. . . Q x x . . . .', 5)
+(4, 'Q x x x . . . . . q', 4)
+(3, '. . . . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, '. . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "d7"
+('human', ': move:', ['h6', 'g7', 'd7'], 'time:', 0.0010659999999997893, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['a4', 'a1', 'c3'], 'time:', 0.6091540000000002, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q Q . .', 9)
+(8, '. x x Q x . . x . .', 8)
+(7, 'x . . x . . q . . .', 7)
+(6, 'x . . . . . . . . q', 6)
+(5, '. . . Q x x . . . .', 5)
+(4, '. x x x . . . . . q', 4)
+(3, '. . x . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, 'Q . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "j6-h6"
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q Q . .', 9)
+(8, '. x x Q x . . x . .', 8)
+(7, 'x . . x . . q . . .', 7)
+(6, 'x . . . . . . q . .', 6)
+(5, '. . . Q x x . . . .', 5)
+(4, '. x x x . . . . . q', 4)
+(3, '. . x . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, 'Q . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "b6"
+('human', ': move:', ['j6', 'h6', 'b6'], 'time:', 0.0010390000000004562, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['h9', 'i8', 'i6'], 'time:', 0.6248970000000007, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q . . .', 9)
+(8, '. x x Q x . . x Q .', 8)
+(7, 'x . . x . . q . . .', 7)
+(6, 'x x . . . . . q x .', 6)
+(5, '. . . Q x x . . . .', 5)
+(4, '. x x x . . . . . q', 4)
+(3, '. . x . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, 'Q . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "h6-h4"
+     Black
+  a b c d e f g h i j
+(9, '. . x . . . q . . .', 9)
+(8, '. x x Q x . . x Q .', 8)
+(7, 'x . . x . . q . . .', 7)
+(6, 'x x . . . . . . x .', 6)
+(5, '. . . Q x x . . . .', 5)
+(4, '. x x x . . . q . q', 4)
+(3, '. . x . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, 'Q . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "e4"
+('human', ': move:', ['h6', 'h4', 'e4'], 'time:', 0.0009619999999994633, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['d5', 'f7', 'f9'], 'time:', 0.585306000000001, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x . . x q . . .', 9)
+(8, '. x x Q x . . x Q .', 8)
+(7, 'x . . x . Q q . . .', 7)
+(6, 'x x . . . . . . x .', 6)
+(5, '. . . . x x . . . .', 5)
+(4, '. x x x x . . q . q', 4)
+(3, '. . x . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, 'Q . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "g7-i7"
+     Black
+  a b c d e f g h i j
+(9, '. . x . . x q . . .', 9)
+(8, '. x x Q x . . x Q .', 8)
+(7, 'x . . x . Q . . q .', 7)
+(6, 'x x . . . . . . x .', 6)
+(5, '. . . . x x . . . .', 5)
+(4, '. x x x x . . q . q', 4)
+(3, '. . x . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, 'Q . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "g7"
+('human', ': move:', ['g7', 'i7', 'g7'], 'time:', 0.0010110000000000952, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['a1', 'a3', 'a1'], 'time:', 0.5540179999999992, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x . . x q . . .', 9)
+(8, '. x x Q x . . x Q .', 8)
+(7, 'x . . x . Q x . q .', 7)
+(6, 'x x . . . . . . x .', 6)
+(5, '. . . . x x . . . .', 5)
+(4, '. x x x x . . q . q', 4)
+(3, 'Q . x . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "i7-h6"
+     Black
+  a b c d e f g h i j
+(9, '. . x . . x q . . .', 9)
+(8, '. x x Q x . . x Q .', 8)
+(7, 'x . . x . Q x . . .', 7)
+(6, 'x x . . . . . q x .', 6)
+(5, '. . . . x x . . . .', 5)
+(4, '. x x x x . . q . q', 4)
+(3, 'Q . x . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "f6"
+('human', ': move:', ['i7', 'h6', 'f6'], 'time:', 0.0011690000000008638, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['f7', 'e6', 'c6'], 'time:', 0.47830699999999915, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x . . x q . . .', 9)
+(8, '. x x Q x . . x Q .', 8)
+(7, 'x . . x . . x . . .', 7)
+(6, 'x x x . Q x . q x .', 6)
+(5, '. . . . x x . . . .', 5)
+(4, '. x x x x . . q . q', 4)
+(3, 'Q . x . . . . . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "h4-g3"
+     Black
+  a b c d e f g h i j
+(9, '. . x . . x q . . .', 9)
+(8, '. x x Q x . . x Q .', 8)
+(7, 'x . . x . . x . . .', 7)
+(6, 'x x x . Q x . q x .', 6)
+(5, '. . . . x x . . . .', 5)
+(4, '. x x x x . . . . q', 4)
+(3, 'Q . x . . . q . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "f4"
+('human', ': move:', ['h4', 'g3', 'f4'], 'time:', 0.0011970000000012249, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['e6', 'f7', 'i4'], 'time:', 0.5173539999999992, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x . . x q . . .', 9)
+(8, '. x x Q x . . x Q .', 8)
+(7, 'x . . x . Q x . . .', 7)
+(6, 'x x x . . x . q x .', 6)
+(5, '. . . . x x . . . .', 5)
+(4, '. x x x x x . . x q', 4)
+(3, 'Q . x . . . q . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "h6-- h4"
+     Black
+  a b c d e f g h i j
+(9, '. . x . . x q . . .', 9)
+(8, '. x x Q x . . x Q .', 8)
+(7, 'x . . x . Q x . . .', 7)
+(6, 'x x x . . x . . x .', 6)
+(5, '. . . . x x . . . .', 5)
+(4, '. x x x x x . q x q', 4)
+(3, 'Q . x . . . q . . .', 3)
+(2, '. . . . . . . . . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "d3"
+invalid move: not a straight line
+Input please: "h2"
+('human', ': move:', ['h6', 'h4', 'h2'], 'time:', 0.0012710000000009103, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['a3', 'a2', 'd2'], 'time:', 0.6106599999999993, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x . . x q . . .', 9)
+(8, '. x x Q x . . x Q .', 8)
+(7, 'x . . x . Q x . . .', 7)
+(6, 'x x x . . x . . x .', 6)
+(5, '. . . . x x . . . .', 5)
+(4, '. x x x x x . q x q', 4)
+(3, '. . x . . . q . . .', 3)
+(2, 'Q . . x . . . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "g9-h9"
+     Black
+  a b c d e f g h i j
+(9, '. . x . . x . q . .', 9)
+(8, '. x x Q x . . x Q .', 8)
+(7, 'x . . x . Q x . . .', 7)
+(6, 'x x x . . x . . x .', 6)
+(5, '. . . . x x . . . .', 5)
+(4, '. x x x x x . q x q', 4)
+(3, '. . x . . . q . . .', 3)
+(2, 'Q . . x . . . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "g8"
+('human', ': move:', ['g9', 'h9', 'g8'], 'time:', 0.0009750000000003922, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['d8', 'd9', 'e9'], 'time:', 0.5495820000000009, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x Q x x . q . .', 9)
+(8, '. x x . x . x x Q .', 8)
+(7, 'x . . x . Q x . . .', 7)
+(6, 'x x x . . x . . x .', 6)
+(5, '. . . . x x . . . .', 5)
+(4, '. x x x x x . q x q', 4)
+(3, '. . x . . . q . . .', 3)
+(2, 'Q . . x . . . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "g3-e3"
+     Black
+  a b c d e f g h i j
+(9, '. . x Q x x . q . .', 9)
+(8, '. x x . x . x x Q .', 8)
+(7, 'x . . x . Q x . . .', 7)
+(6, 'x x x . . x . . x .', 6)
+(5, '. . . . x x . . . .', 5)
+(4, '. x x x x x . q x q', 4)
+(3, '. . x . q . . . . .', 3)
+(2, 'Q . . x . . . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "e2"
+('human', ': move:', ['g3', 'e3', 'e2'], 'time:', 0.001109000000001359, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['i8', 'j8', 'i8'], 'time:', 0.5073220000000003, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x Q x x . q . .', 9)
+(8, '. x x . x . x x x Q', 8)
+(7, 'x . . x . Q x . . .', 7)
+(6, 'x x x . . x . . x .', 6)
+(5, '. . . . x x . . . .', 5)
+(4, '. x x x x x . q x q', 4)
+(3, '. . x . q . . . . .', 3)
+(2, 'Q . . x x . . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "j4-j2"
+     Black
+  a b c d e f g h i j
+(9, '. . x Q x x . q . .', 9)
+(8, '. x x . x . x x x Q', 8)
+(7, 'x . . x . Q x . . .', 7)
+(6, 'x x x . . x . . x .', 6)
+(5, '. . . . x x . . . .', 5)
+(4, '. x x x x x . q x .', 4)
+(3, '. . x . q . . . . .', 3)
+(2, 'Q . . x x . . x . q', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . .', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "j0"
+('human', ': move:', ['j4', 'j2', 'j0'], 'time:', 0.0010030000000007533, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['f7', 'g6', 'h6'], 'time:', 0.528473, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x Q x x . q . .', 9)
+(8, '. x x . x . x x x Q', 8)
+(7, 'x . . x . . x . . .', 7)
+(6, 'x x x . . x Q x x .', 6)
+(5, '. . . . x x . . . .', 5)
+(4, '. x x x x x . q x .', 4)
+(3, '. . x . q . . . . .', 3)
+(2, 'Q . . x x . . x . q', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "j2-j5"
+     Black
+  a b c d e f g h i j
+(9, '. . x Q x x . q . .', 9)
+(8, '. x x . x . x x x Q', 8)
+(7, 'x . . x . . x . . .', 7)
+(6, 'x x x . . x Q x x .', 6)
+(5, '. . . . x x . . . q', 5)
+(4, '. x x x x x . q x .', 4)
+(3, '. . x . q . . . . .', 3)
+(2, 'Q . . x x . . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: : "g5"
+('human', ': move:', ['j2', 'j5', 'g5'], 'time:', 0.001350999999999658, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['d9', 'd8', 'd9'], 'time:', 0.4551190000000016, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x . q . .', 9)
+(8, '. x x Q x . x x x Q', 8)
+(7, 'x . . x . . x . . .', 7)
+(6, 'x x x . . x Q x x .', 6)
+(5, '. . . . x x x . . q', 5)
+(4, '. x x x x x . q x .', 4)
+(3, '. . x . q . . . . .', 3)
+(2, 'Q . . x x . . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "h4-i3"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x . q . .', 9)
+(8, '. x x Q x . x x x Q', 8)
+(7, 'x . . x . . x . . .', 7)
+(6, 'x x x . . x Q x x .', 6)
+(5, '. . . . x x x . . q', 5)
+(4, '. x x x x x . . x .', 4)
+(3, '. . x . q . . . q .', 3)
+(2, 'Q . . x x . . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . . x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "i0"
+('human', ': move:', ['h4', 'i3', 'i0'], 'time:', 0.0011650000000003047, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['j8', 'i7', 'j6'], 'time:', 0.47469999999999857, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x . q . .', 9)
+(8, '. x x Q x . x x x .', 8)
+(7, 'x . . x . . x . Q .', 7)
+(6, 'x x x . . x Q x x x', 6)
+(5, '. . . . x x x . . q', 5)
+(4, '. x x x x x . . x .', 4)
+(3, '. . x . q . . . q .', 3)
+(2, 'Q . . x x . . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . x x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "e3-h3"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x . q . .', 9)
+(8, '. x x Q x . x x x .', 8)
+(7, 'x . . x . . x . Q .', 7)
+(6, 'x x x . . x Q x x x', 6)
+(5, '. . . . x x x . . q', 5)
+(4, '. x x x x x . . x .', 4)
+(3, '. . x . . . . q q .', 3)
+(2, 'Q . . x x . . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . x x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "e3"
+('human', ': move:', ['e3', 'h3', 'e3'], 'time:', 0.0010239999999992477, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['d8', 'e7', 'g9'], 'time:', 0.5525970000000004, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x q . .', 9)
+(8, '. x x . x . x x x .', 8)
+(7, 'x . . x Q . x . Q .', 7)
+(6, 'x x x . . x Q x x x', 6)
+(5, '. . . . x x x . . q', 5)
+(4, '. x x x x x . . x .', 4)
+(3, '. . x . x . . q q .', 3)
+(2, 'Q . . x x . . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . x x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "h3-h4"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x q . .', 9)
+(8, '. x x . x . x x x .', 8)
+(7, 'x . . x Q . x . Q .', 7)
+(6, 'x x x . . x Q x x x', 6)
+(5, '. . . . x x x . . q', 5)
+(4, '. x x x x x . q x .', 4)
+(3, '. . x . x . . . q .', 3)
+(2, 'Q . . x x . . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . x x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "f3"
+invalid move: not a straight line
+Input please: "f3 2"
+('human', ': move:', ['h3', 'h4', 'f2'], 'time:', 0.0012669999999985748, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['a2', 'b2', 'a2'], 'time:', 0.4810459999999992, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x q . .', 9)
+(8, '. x x . x . x x x .', 8)
+(7, 'x . . x Q . x . Q .', 7)
+(6, 'x x x . . x Q x x x', 6)
+(5, '. . . . x x x . . q', 5)
+(4, '. x x x x x . q x .', 4)
+(3, '. . x . x . . . q .', 3)
+(2, 'x Q . x x x . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . x x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "h4-g3"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x q . .', 9)
+(8, '. x x . x . x x x .', 8)
+(7, 'x . . x Q . x . Q .', 7)
+(6, 'x x x . . x Q x x x', 6)
+(5, '. . . . x x x . . q', 5)
+(4, '. x x x x x . . x .', 4)
+(3, '. . x . x . q . q .', 3)
+(2, 'x Q . x x x . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . . . x x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "g0"
+('human', ': move:', ['h4', 'g3', 'g0'], 'time:', 0.0009990000000001942, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['e7', 'c5', 'f8'], 'time:', 0.45613299999999946, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x q . .', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . . x . Q .', 7)
+(6, 'x x x . . x Q x x x', 6)
+(5, '. . Q . x x x . . q', 5)
+(4, '. x x x x x . . x .', 4)
+(3, '. . x . x . q . q .', 3)
+(2, 'x Q . x x x . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . x . x x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "h9-j9"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . . x . Q .', 7)
+(6, 'x x x . . x Q x x x', 6)
+(5, '. . Q . x x x . . q', 5)
+(4, '. x x x x x . . x .', 4)
+(3, '. . x . x . q . q .', 3)
+(2, 'x Q . x x x . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . x . x x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "j7"
+('human', ': move:', ['h9', 'j9', 'j7'], 'time:', 0.0009589999999999321, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['g6', 'h5', 'f3'], 'time:', 0.4708900000000007, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . . x . Q x', 7)
+(6, 'x x x . . x . x x x', 6)
+(5, '. . Q . x x x Q . q', 5)
+(4, '. x x x x x . . x .', 4)
+(3, '. . x . x x q . q .', 3)
+(2, 'x Q . x x x . x . .', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . x . x x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "j5-j1"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . . x . Q x', 7)
+(6, 'x x x . . x . x x x', 6)
+(5, '. . Q . x x x Q . .', 5)
+(4, '. x x x x x . . x .', 4)
+(3, '. . x . x x q . q .', 3)
+(2, 'x Q . x x x . x . .', 2)
+(1, 'x . . x . x . x . q', 1)
+(0, '. . . . . . x . x x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "j5"
+('human', ': move:', ['j5', 'j1', 'j5'], 'time:', 0.0010270000000005552, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['c5', 'd5', 'a5'], 'time:', 0.4538030000000006, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . . x . Q x', 7)
+(6, 'x x x . . x . x x x', 6)
+(5, 'x . . Q x x x Q . x', 5)
+(4, '. x x x x x . . x .', 4)
+(3, '. . x . x x q . q .', 3)
+(2, 'x Q . x x x . x . .', 2)
+(1, 'x . . x . x . x . q', 1)
+(0, '. . . . . . x . x x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "j1-j2"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . . x . Q x', 7)
+(6, 'x x x . . x . x x x', 6)
+(5, 'x . . Q x x x Q . x', 5)
+(4, '. x x x x x . . x .', 4)
+(3, '. . x . x x q . q .', 3)
+(2, 'x Q . x x x . x . q', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . x . x x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "h0"
+('human', ': move:', ['j1', 'j2', 'h0'], 'time:', 0.001260000000000261, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['b2', 'b3', 'b2'], 'time:', 0.4345579999999991, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . . x . Q x', 7)
+(6, 'x x x . . x . x x x', 6)
+(5, 'x . . Q x x x Q . x', 5)
+(4, '. x x x x x . . x .', 4)
+(3, '. Q x . x x q . q .', 3)
+(2, 'x x . x x x . x . q', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "g3-g4"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . . x . Q x', 7)
+(6, 'x x x . . x . x x x', 6)
+(5, 'x . . Q x x x Q . x', 5)
+(4, '. x x x x x q . x .', 4)
+(3, '. Q x . x x . . q .', 3)
+(2, 'x x . x x x . x . q', 2)
+(1, 'x . . x . x . x . .', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "g1"
+('human', ': move:', ['g3', 'g4', 'g1'], 'time:', 0.0012400000000027944, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['d5', 'e6', 'd5'], 'time:', 0.4274760000000022, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . . x . Q x', 7)
+(6, 'x x x . Q x . x x x', 6)
+(5, 'x . . x x x x Q . x', 5)
+(4, '. x x x x x q . x .', 4)
+(3, '. Q x . x x . . q .', 3)
+(2, 'x x . x x x . x . q', 2)
+(1, 'x . . x . x x x . .', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "g4-h4"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . . x . Q x', 7)
+(6, 'x x x . Q x . x x x', 6)
+(5, 'x . . x x x x Q . x', 5)
+(4, '. x x x x x . q x .', 4)
+(3, '. Q x . x x . . q .', 3)
+(2, 'x x . x x x . x . q', 2)
+(1, 'x . . x . x x x . .', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "g3"
+('human', ': move:', ['g4', 'h4', 'g3'], 'time:', 0.0012630000000015684, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['e6', 'e7', 'c5'], 'time:', 0.47864700000000227, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x Q . x . Q x', 7)
+(6, 'x x x . . x . x x x', 6)
+(5, 'x . x x x x x Q . x', 5)
+(4, '. x x x x x . q x .', 4)
+(3, '. Q x . x x x . q .', 3)
+(2, 'x x . x x x . x . q', 2)
+(1, 'x . . x . x x x . .', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "j2-h1"
+invalid move: not a straight line
+Input please: "j2-i1"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x Q . x . Q x', 7)
+(6, 'x x x . . x . x x x', 6)
+(5, 'x . x x x x x Q . x', 5)
+(4, '. x x x x x . q x .', 4)
+(3, '. Q x . x x x . q .', 3)
+(2, 'x x . x x x . x . .', 2)
+(1, 'x . . x . x x x q .', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "j1"
+('human', ': move:', ['j2', 'i1', 'j1'], 'time:', 0.0015380000000000393, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['e7', 'f7', 'g6'], 'time:', 0.46045799999999915, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . Q x . Q x', 7)
+(6, 'x x x . . x x x x x', 6)
+(5, 'x . x x x x x Q . x', 5)
+(4, '. x x x x x . q x .', 4)
+(3, '. Q x . x x x . q .', 3)
+(2, 'x x . x x x . x . .', 2)
+(1, 'x . . x . x x x q x', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "i3-j4"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . Q x . Q x', 7)
+(6, 'x x x . . x x x x x', 6)
+(5, 'x . x x x x x Q . x', 5)
+(4, '. x x x x x . q x q', 4)
+(3, '. Q x . x x x . . .', 3)
+(2, 'x x . x x x . x . .', 2)
+(1, 'x . . x . x x x q x', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "j2"
+('human', ': move:', ['i3', 'j4', 'j2'], 'time:', 0.0011779999999994573, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['h5', 'g4', 'h5'], 'time:', 0.5113899999999987, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . Q x . Q x', 7)
+(6, 'x x x . . x x x x x', 6)
+(5, 'x . x x x x x x . x', 5)
+(4, '. x x x x x Q q x q', 4)
+(3, '. Q x . x x x . . .', 3)
+(2, 'x x . x x x . x . x', 2)
+(1, 'x . . x . x x x q x', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "i1-i3"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . Q x . Q x', 7)
+(6, 'x x x . . x x x x x', 6)
+(5, 'x . x x x x x x . x', 5)
+(4, '. x x x x x Q q x q', 4)
+(3, '. Q x . x x x . q .', 3)
+(2, 'x x . x x x . x . x', 2)
+(1, 'x . . x . x x x . x', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "i2 1"
+('human', ': move:', ['i1', 'i3', 'i1'], 'time:', 0.0009629999999987149, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['g4', 'h3', 'i2'], 'time:', 0.4185130000000008, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . Q x . Q x', 7)
+(6, 'x x x . . x x x x x', 6)
+(5, 'x . x x x x x x . x', 5)
+(4, '. x x x x x . q x q', 4)
+(3, '. Q x . x x x Q q .', 3)
+(2, 'x x . x x x . x x x', 2)
+(1, 'x . . x . x x x x x', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "j4-j3"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . Q x . Q x', 7)
+(6, 'x x x . . x x x x x', 6)
+(5, 'x . x x x x x x . x', 5)
+(4, '. x x x x x . q x .', 4)
+(3, '. Q x . x x x Q q q', 3)
+(2, 'x x . x x x . x x x', 2)
+(1, 'x . . x . x x x x x', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "j4"
+('human', ': move:', ['j4', 'j3', 'j4'], 'time:', 0.0012159999999994398, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['f7', 'e6', 'd6'], 'time:', 0.45631600000000105, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . . q', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . . x . Q x', 7)
+(6, 'x x x x Q x x x x x', 6)
+(5, 'x . x x x x x x . x', 5)
+(4, '. x x x x x . q x x', 4)
+(3, '. Q x . x x x Q q q', 3)
+(2, 'x x . x x x . x x x', 2)
+(1, 'x . . x . x x x x x', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "j9-j7"
+('invalid move: the path is not cleared between', 'j9', 'j7')
+Input please: "j9-h9"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x q . .', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . . x . Q x', 7)
+(6, 'x x x x Q x x x x x', 6)
+(5, 'x . x x x x x x . x', 5)
+(4, '. x x x x x . q x x', 4)
+(3, '. Q x . x x x Q q q', 3)
+(2, 'x x . x x x . x x x', 2)
+(1, 'x . . x . x x x x x', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "j9"
+('human', ': move:', ['j9', 'h9', 'j9'], 'time:', 0.0015940000000007615, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['b3', 'a3', 'a4'], 'time:', 0.48980200000000096, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x q . x', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . . x . Q x', 7)
+(6, 'x x x x Q x x x x x', 6)
+(5, 'x . x x x x x x . x', 5)
+(4, 'x x x x x x . q x x', 4)
+(3, 'Q . x . x x x Q q q', 3)
+(2, 'x x . x x x . x x x', 2)
+(1, 'x . . x . x x x x x', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "h9-i9"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . q x', 9)
+(8, '. x x . x x x x x .', 8)
+(7, 'x . . x . . x . Q x', 7)
+(6, 'x x x x Q x x x x x', 6)
+(5, 'x . x x x x x x . x', 5)
+(4, 'x x x x x x . q x x', 4)
+(3, 'Q . x . x x x Q q q', 3)
+(2, 'x x . x x x . x x x', 2)
+(1, 'x . . x . x x x x x', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "j8"
+('human', ': move:', ['h9', 'i9', 'j8'], 'time:', 0.0010069999999977597, 'seconds')
+('kpb24_AutoPlayer', ': move:', ['a3', 'b3', 'c2'], 'time:', 0.4098530000000018, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . q x', 9)
+(8, '. x x . x x x x x x', 8)
+(7, 'x . . x . . x . Q x', 7)
+(6, 'x x x x Q x x x x x', 6)
+(5, 'x . x x x x x x . x', 5)
+(4, 'x x x x x x . q x x', 4)
+(3, '. Q x . x x x Q q q', 3)
+(2, 'x x x x x x . x x x', 2)
+(1, 'x . . x . x x x x x', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+You're playing Black (q)
+Options:
+* To move, type "<loc-from> <loc-to>" (e.g., "a3-d3")
+* To resign, type "<return>"
+Input please: "h4-i5"
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . q x', 9)
+(8, '. x x . x x x x x x', 8)
+(7, 'x . . x . . x . Q x', 7)
+(6, 'x x x x Q x x x x x', 6)
+(5, 'x . x x x x x x q x', 5)
+(4, 'x x x x x x . . x x', 4)
+(3, '. Q x . x x x Q q q', 3)
+(2, 'x x x x x x . x x x', 2)
+(1, 'x . . x . x x x x x', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+Options:
+* To shoot, type "<loc-to>" (e.g., "h3")
+* To resign, type "<return>"
+Input please: "h4"
+('human', ': move:', ['h4', 'i5', 'h4'], 'time:', 0.0010140000000014027, 'seconds')
+     Black
+  a b c d e f g h i j
+(9, '. . x x x x x . q x', 9)
+(8, '. x x . x x x x x x', 8)
+(7, 'x . . x . . x . Q x', 7)
+(6, 'x x x x Q x x x x x', 6)
+(5, 'x . x x x x x x q x', 5)
+(4, 'x x x x x x . x x x', 4)
+(3, '. Q x . x x x Q q q', 3)
+(2, 'x x x x x x . x x x', 2)
+(1, 'x . . x . x x x x x', 1)
+(0, '. . . . . . x x x x', 0)
+  a b c d e f g h i j
+     White
+('kpb24_AutoPlayer', '(white) wins by a margin of', 11)
+bash-3.2$ "h[Ki9-h9"
+bash: i9-h9: command not found
+bash-3.2$ "[Kexit
+exit
+
+Script done on Tue Oct 18 21:18:29 2016

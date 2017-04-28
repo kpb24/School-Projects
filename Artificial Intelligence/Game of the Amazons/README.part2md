@@ -1,0 +1,8 @@
+Version of Python used: 3
+
+I did not discuss this project with anyone in the class. I consulted the wikipedia page provided in the code given since I
+wasn't familiar with how to play.
+
+Anything not working: N/A, but for some reason the program would not accept "amazons.config" as a file input so I changed
+the file name to "amazons.txt" and it worked. I'm not sure why because I didn't change any of the original code. I included
+the amazons.txt file incase and it is updated for the auto player.
