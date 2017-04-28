@@ -1,0 +1,20 @@
+#!/bin/bash
+ 
+#PBS -j oe                    # merge stdout and stderr stream of job into one output file
+#PBS -N strassen              # job name
+#PBS -q shared         # Queue (partition) name
+#PBS -l nodes=1:ppn=8         # Request 1 nodes, 8 cores per node
+#PBS -l walltime=00:05:00     # Run time (hh:mm:ss) - 5 minutes
+#PBS -l mem=24GB              # Memory requirement
+#PBS -S /bin/bash             # Use bash shell
+#PBS -A cs1645-fall2016 
+
+echo JOB_ID: $PBS_JOBID JOB_NAME: $PBS_JOBNAME HOSTNAME: $PBS_O_HOST
+echo start_time: `date`
+ 
+module load defaults 
+cd $PBS_O_WORKDIR
+./strassen 16 > output.out 
+
+echo end_time: `date`
+exit

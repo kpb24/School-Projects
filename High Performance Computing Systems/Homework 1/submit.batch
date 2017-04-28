@@ -1,0 +1,19 @@
+#!/bin/bash
+ 
+#PBS -j oe                    # merge stdout and stderr stream of job into one output file
+#PBS -N pi_mpi                # job name
+#PBS -q distributed           # Queue (partition) name
+#PBS -l nodes=2:ppn=12        # Request 2 nodes, 12 processes per node
+#PBS -l walltime=00:05:00     # Run time (hh:mm:ss) - 5 minutes
+#PBS -l mem=24GB              # Memory requirement
+#PBS -S /bin/bash             # Use bash shell
+#PBS -A cs1645-fall2016 
+
+echo JOB_ID: $PBS_JOBID JOB_NAME: $PBS_JOBNAME HOSTNAME: $PBS_O_HOST
+echo start_time: `date`
+ 
+module load defaults 
+prun ~/hpc_course/hw2/pi 10000
+
+echo end_time: `date`
+exit

@@ -1,0 +1,26 @@
+JOB_ID: 3714438.clusman0a.frank.sam.pitt.edu JOB_NAME: pi_mpi HOSTNAME: login0b-priv
+start_time: Wed Sep 14 15:55:11 EDT 2016
+
+pi is approximately 3.1415926544231279, Error is 0.0000000008333347
+end_time: Wed Sep 14 15:55:13 EDT 2016
+trying to remove /scratch/3714438.clusman0a.frank.sam.pitt.edu
++---------------------------------------------------------------------+
+|                        JOB INFORMATION                              |
++---------------------------------------------------------------------+
+|
+|  Date      : Wed Sep 14 15:55:13 EDT 2016
+|  Job ID    : 3714438.clusman0a.frank.sam.pitt.edu
+|  Username  : kpb24
+|  Group     : cs1645-fall2016
+|  Job Name  : pi_mpi
+|  Session   : 96354
+|  Limits    : mem=24gb,neednodes=2:ppn=12,nodes=2:ppn=12,pmem=4032mb,walltime=00:05:00
+|  Resources : cput=00:00:00,energy_used=0,mem=0kb,vmem=0kb,walltime=00:00:02
+|  Disk      : 4.0K
+|  Queue     : ndist
+|  Account   : cs1645-fall2016
+|  Exit code : 0
+|  Local scr : /scratch/3714438.clusman0a.frank.sam.pitt.edu
+|  Node/cores: 31/12 36/12 
+|
+[---------------------------------------------------------------------]

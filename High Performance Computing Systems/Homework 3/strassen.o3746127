@@ -1,0 +1,25 @@
+JOB_ID: 3746127.clusman0a.frank.sam.pitt.edu JOB_NAME: strassen HOSTNAME: login0a-priv
+start_time: Fri Oct 7 19:29:43 EDT 2016
+end_time: Fri Oct 7 19:29:43 EDT 2016
+date: invalid date `-   ago'
+trying to remove /scratch/3746127.clusman0a.frank.sam.pitt.edu
++---------------------------------------------------------------------+
+|                        JOB INFORMATION                              |
++---------------------------------------------------------------------+
+|
+|  Date      : Fri Oct  7 19:29:44 EDT 2016
+|  Job ID    : 3746127.clusman0a.frank.sam.pitt.edu
+|  Username  : kpb24
+|  Group     : cs1645-fall2016
+|  Job Name  : strassen
+|  Session   : 21397
+|  Limits    : mem=24gb,neednodes=1:ppn=8,nodes=1:ppn=8,pmem=2666mb,walltime=00:05:00
+|  Resources : cput=00:00:00,energy_used=0,mem=0kb,vmem=0kb,walltime=00:00:00
+|  Disk      : 4.0K
+|  Queue     : nshared
+|  Account   : cs1645-fall2016
+|  Exit code : 0
+|  Local scr : /scratch/3746127.clusman0a.frank.sam.pitt.edu
+|  Node/cores: 9/8 
+|
+[---------------------------------------------------------------------]

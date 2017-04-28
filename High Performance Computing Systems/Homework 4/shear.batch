@@ -1,0 +1,19 @@
+#!/bin/bash
+ 
+#PBS -j oe                    # merge stdout and stderr stream of job into one output file
+#PBS -N shear                 # job name
+#PBS -q shared                # Queue (partition) name
+#PBS -l nodes=1:ppn=16        # Request 1 node, 16 processes per node
+#PBS -l walltime=00:30:00     # Run time (hh:mm:ss) - 30 minutes
+#PBS -l mem=24GB              # Memory requirement
+#PBS -S /bin/bash             # Use bash shell
+#PBS -A cs1645-fall2016 
+
+echo JOB_ID: $PBS_JOBID JOB_NAME: $PBS_JOBNAME HOSTNAME: $PBS_O_HOST
+echo start_time: `date`
+ 
+module load defaults 
+cd $PBS_O_WORKDIR 
+./shear 1024 > output1.txt
+echo end_time: `date`
+exit
