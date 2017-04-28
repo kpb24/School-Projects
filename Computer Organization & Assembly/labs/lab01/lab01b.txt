@@ -1,0 +1,44 @@
+Kerilee Bookleiner
+CS 0447(B) Spring 2015
+Lab 1 Part B
+
+Assemble your program again (you need to assemble it again to be able to run it again).
+Step through your program's instructions one-by-one with the "Step" tool (F7).
+As each instruction executes, notice how the values of registers update in the "Regsiters" pane.
+
+Answer the following questions by listing your answers in the space provided after each question.
+
+----------
+
+1. Before the first instruction is executed, what is the value of the program counter register, in hexadecimal?
+   (The program counter is the register labeled "pc".)
+
+Pc: 0x00400000	  
+
+
+2. After the FIRST instruction is executed, what are the values of the program counter and $t9, in hexadecimal?
+
+$t9: 0x00000000   
+Pc:  0x00400004	   
+
+
+3. After the SECOND instruction is executed, what are the values of the program counter and $t9?
+
+$t9: 0x000000b3
+Pc:  0x00400008
+
+
+4. After the THIRD instruction is executed, what are the values of the program counter and $t9?
+
+$t9: 0xffffff8e
+Pc:  0x0040000c
+
+
+5. After the FOURTH instruction is executed, what are the values of the program counter and $t9?
+
+$t9: 0x000001bf
+Pc:  0x00400010
+
+
+6. What base 10 or decimal number is 0x000001bf?
+447
