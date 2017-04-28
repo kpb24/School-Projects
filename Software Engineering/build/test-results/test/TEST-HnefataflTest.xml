@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HnefataflTest" tests="59" skipped="0" failures="0" errors="0" timestamp="2017-04-15T21:38:21" hostname="Kerilees-MacBook-Air.local" time="3.426">
+  <properties/>
+  <testcase name="testControllerKingTopLeftCorner" classname="HnefataflTest" time="2.101"/>
+  <testcase name="testAdjustTimeWithOverflow" classname="HnefataflTest" time="0.003"/>
+  <testcase name="testGameMoveGameOver0" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testGameMoveGameOver1" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testGameMovePlayer0" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testControllerRightEdge" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testShieldwall1" classname="HnefataflTest" time="0.062"/>
+  <testcase name="testShieldwall2" classname="HnefataflTest" time="0.056"/>
+  <testcase name="testShieldwall3" classname="HnefataflTest" time="0.043"/>
+  <testcase name="testShieldwall4" classname="HnefataflTest" time="0.044"/>
+  <testcase name="testShieldwall5" classname="HnefataflTest" time="0.039"/>
+  <testcase name="testShieldwall6" classname="HnefataflTest" time="0.039"/>
+  <testcase name="testGameMoveTurn0" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testDecrementSeconds0" classname="HnefataflTest" time="0.001"/>
+  <testcase name="testControllerKingTopRightCorner" classname="HnefataflTest" time="0.043"/>
+  <testcase name="testDecrementNeither0" classname="HnefataflTest" time="0.004"/>
+  <testcase name="testBlackRestrictedSquare" classname="HnefataflTest" time="0.053"/>
+  <testcase name="testWhiteRestrictedSquare" classname="HnefataflTest" time="0.059"/>
+  <testcase name="testAdjustTimeNoOverflow" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testControllerKingBottomRightCorner" classname="HnefataflTest" time="0.04"/>
+  <testcase name="testGameBeginWhiteTimer" classname="HnefataflTest" time="0.032"/>
+  <testcase name="testControllerLeftEdge" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testCapture1" classname="HnefataflTest" time="0.037"/>
+  <testcase name="testCapture2" classname="HnefataflTest" time="0.041"/>
+  <testcase name="testCapture3" classname="HnefataflTest" time="0.031"/>
+  <testcase name="testCapture4" classname="HnefataflTest" time="0.042"/>
+  <testcase name="testCapture5" classname="HnefataflTest" time="0.031"/>
+  <testcase name="testCapture6" classname="HnefataflTest" time="0.029"/>
+  <testcase name="testDefendersSurrounded0" classname="HnefataflTest" time="0.037"/>
+  <testcase name="testDefendersSurrounded1" classname="HnefataflTest" time="0.036"/>
+  <testcase name="testControllerTopRightEdge" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testDecrementGameOver" classname="HnefataflTest" time="0.031"/>
+  <testcase name="testSurrounded3Black" classname="HnefataflTest" time="0.03"/>
+  <testcase name="testControllerKingBottomLeftCorner" classname="HnefataflTest" time="0.032"/>
+  <testcase name="testKingThrone" classname="HnefataflTest" time="0.026"/>
+  <testcase name="testDecrementMinutes0" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testControllerTopLeftEdge" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testNotSurroundedEmpty" classname="HnefataflTest" time="0.039"/>
+  <testcase name="testNotSurroundedWhite" classname="HnefataflTest" time="0.028"/>
+  <testcase name="testControllerBottomMiddleEdge" classname="HnefataflTest" time="0.001"/>
+  <testcase name="testDecrementBoth0" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testControllerBottomRightEdge" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testSurroundedAllBlack" classname="HnefataflTest" time="0.034"/>
+  <testcase name="testDecrementGameNotOver" classname="HnefataflTest" time="0.031"/>
+  <testcase name="testControllerCheckTurn0" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testControllerCheckTurn1" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testControllerCheckTurn2" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testControllerCheckTurn3" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testValid1" classname="HnefataflTest" time="0.027"/>
+  <testcase name="testValid2" classname="HnefataflTest" time="0.027"/>
+  <testcase name="testValid3" classname="HnefataflTest" time="0.023"/>
+  <testcase name="testValid4" classname="HnefataflTest" time="0.028"/>
+  <testcase name="testValid5" classname="HnefataflTest" time="0.03"/>
+  <testcase name="testValid6" classname="HnefataflTest" time="0.037"/>
+  <testcase name="testValid7" classname="HnefataflTest" time="0.024"/>
+  <testcase name="testValid8" classname="HnefataflTest" time="0.023"/>
+  <testcase name="testValid9" classname="HnefataflTest" time="0.024"/>
+  <testcase name="testControllerTopMiddleEdge" classname="HnefataflTest" time="0.0"/>
+  <testcase name="testControllerBottomLeftEdge" classname="HnefataflTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

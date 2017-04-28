@@ -1,0 +1,31 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName = "Hnefatafl"
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	testCompile 'junit:junit:4.12'
+	compile 'org.assertj:assertj-swing:3.5.0'
+}
+
+test {
+	testLogging{
+		events 'passed'
+    	showStandardStreams = true
+	}
+}
+
+sourceSets {
+  main {
+    java {
+            srcDirs= ["src/main/java"]
+    }
+    resources {
+            srcDirs= ["src/main/resources"]
+    }
+  }
+}
